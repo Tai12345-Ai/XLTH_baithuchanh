@@ -1,0 +1,30 @@
+KET QUA BAI THUC HANH
+
+1. Nhan dien DTMF
+- File: dtmf.wav
+- Tan so lay mau: 44100 Hz
+- Thoi luong: 5.000 s
+- Chuoi phim nhan dang: 28322489
+
+Bang tan so tung phim:
+01. 2: 697 Hz + 1336 Hz (0.000s -> 0.370s)
+02. 8: 852 Hz + 1336 Hz (0.657s -> 1.032s)
+03. 3: 697 Hz + 1477 Hz (1.319s -> 1.694s)
+04. 2: 697 Hz + 1336 Hz (1.982s -> 2.357s)
+05. 2: 697 Hz + 1336 Hz (2.644s -> 3.019s)
+06. 4: 770 Hz + 1209 Hz (3.306s -> 3.681s)
+07. 8: 852 Hz + 1336 Hz (3.968s -> 4.343s)
+08. 9: 852 Hz + 1477 Hz (4.631s -> 5.000s)
+
+2. Giai ma input.wav
+- File: input.wav
+- Tan so lay mau: 48000 Hz
+- Thoi luong: 35.495 s
+- Dang dieu che: BPSK / nhan bien do +/-1 vao song mang
+- Tan so song mang uoc luong: 3000 Hz
+- Thoi gian moi bit: 0.250 s
+- So bit: 120
+- Day bit: 010010000100010101001100010011000100111101001000010001010100110001001100010011110100100001000101010011000100110001001111
+- Thong diep giai ma: HELLOHELLOHELLO
+
+Hinh ve duoc luu trong thu muc figures/.
